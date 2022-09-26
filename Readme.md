@@ -31,7 +31,7 @@
        $ git push
 
       ii. En la Web: 
-       > 
+       > ![Captura](https://github.com/PauMadu/Tema-1/blob/main/Captura%20de%20pantalla%20-2022-09-26%2018-47-23.png) 
       
    4. Para crear un Archivo.
      i. Con Comandos/Codigos:
@@ -41,4 +41,7 @@
        $ gedit prueba.c
       
       ii. En la Web: 
+      > Dentro del Repositorio...  
+      ![Captura2]([https://github.com/PauMadu/Tema-1/blob/main/Captura%20de%20pantalla%20-2022-09-26%2018-47-23.png](https://github.com/PauMadu/Tema-1/blob/main/Captura%20de%20pantalla%20-2022-09-26%2019-04-10.png)) 
+      
       

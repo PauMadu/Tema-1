@@ -23,8 +23,8 @@
       
       ii. En la Web: _No hay que comprobar nada_
       
-   3. Para crear un Repositorio.
-     i. Con Comandos/Codigos:
+   3 . Para crear un Repositorio.  
+     i. Con Comandos/Codigos:  
       >$ git init  
        $ git add  
        $ git commit -m “Subida del archivo de prueba”  
@@ -33,8 +33,8 @@
       ii. En la Web: 
        > ![Captura](https://user-images.githubusercontent.com/113713397/192711953-475c6a35-3e23-4e26-a2a9-34d106e08c1f.png) 
       
-   4. Para crear un Archivo.
-     i. Con Comandos/Codigos:
+   4 . Para crear un Archivo.  
+     i. Con Comandos/Codigos:  
       >$ mkdir pruebaGitHub  
        $ cd pruebaGitHub  
        $ touch prueba.c  

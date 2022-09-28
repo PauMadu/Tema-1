@@ -31,7 +31,7 @@
        $ git push
 
       ii. En la Web: 
-       > ![Captura](https://github.com/PauMadu/Tema-1/blob/main/Captura%20de%20pantalla%20-2022-09-26%2018-47-23.png) 
+       > ![Captura](https://user-images.githubusercontent.com/113713397/192711953-475c6a35-3e23-4e26-a2a9-34d106e08c1f.png) 
       
    4. Para crear un Archivo.
      i. Con Comandos/Codigos:

@@ -42,6 +42,6 @@
       
       ii. En la Web: 
       > Dentro del Repositorio...  
-      ![Captura2]([https://github.com/PauMadu/Tema-1/blob/main/Captura%20de%20pantalla%20-2022-09-26%2018-47-23.png](https://github.com/PauMadu/Tema-1/blob/main/Captura%20de%20pantalla%20-2022-09-26%2019-04-10.png)) 
+      ![Captura2](https://github.com/PauMadu/Tema-1/blob/main/Captura2.PNG)
       
       

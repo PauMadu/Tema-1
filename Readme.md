@@ -52,10 +52,10 @@
 
 También tenemos la oppcion de generar un **token**, o puede que en algun momento nos lo pida.  
 Entonces desde la pagina web de GitHub, entramos a **Settings**, bajaremos hasta el final de la pagina y entraremos en **Developer Settings**, a continuacion en **Personal Access Tokens**, y por último en **Generate New Token**.
-      
-**Bibliografia:**  
-??
 
 **Conclusiones:**  
 En mi opionion yo creo que GitHub es un buen programa para gestionar proyectos, distribuirlo, y trabajar en equipo. Ya que tiene multiples herramientas y cantidades de acciones que te permiten crear un buen codigo; como el control de _versiones de codigo_, he incluso nos permite nos da la posibilidad de personalizar nuestro perfil.  
-      
+
+**Bibliografia:**  
+[Pagina 1](https://www.webempresa.com/hosting/que-es-github.html)  
+[Pagina 2](https://platzi.com/blog/que-es-github-como-funciona/)
